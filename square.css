@@ -1,0 +1,33 @@
+.one{
+    position: relative;
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    top: 100px;
+    left: 100px;
+    border: 5px solid black;
+  }
+.second{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    }
+.three{
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.four{
+    background-color: rgb(44, 255, 1);
+    width: 250px;
+    height: 250px;
+    top: 75px;
+    position: absolute;
+    left: 75px;
+}

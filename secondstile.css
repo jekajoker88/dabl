@@ -1,0 +1,81 @@
+.one{
+    position: absolute;
+    background-color: yellow;
+    width: 49%;
+    height: 200px;
+    top: 10px;
+    left: 10px;
+  }
+.second{
+    background-color: red;
+    width: 49%;
+    height: 200px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    }
+.three{
+    background-color: black;
+    width: 98.5%;
+    height: 150px;
+    top: 230px;
+    position: absolute;
+    right: 10px;
+    left: 10px;
+}
+.four{
+    background-color: green;
+    width: 32%;
+    height: 100px;
+    top: 400px;
+    position: absolute;
+    left: 10px;
+}
+.five{
+    background-color: green;
+    width: 32%;
+    height: 100px;
+    top: 400px;
+    position: absolute;
+    left: 34%;
+}
+.six{
+    background-color: green;
+    width: 32%;
+    height: 100px;
+    top: 400px;
+    position: absolute;
+    right: 10px;
+}
+.seven{
+    background-color: blue;
+    width: 23%;
+    height: 100px;
+    top: 540px;
+    position: absolute;
+    left: 10px;
+}
+.eight{
+    background-color: blue;
+    width: 23%;
+    height: 100px;
+    top: 540px;
+    position: absolute;
+    left: 25%;
+}
+.nine{
+    background-color: blue;
+    width: 23%;
+    height: 100px;
+    top: 540px;
+    position: absolute;
+    left: 50%;
+}
+.ten{
+    background-color: blue;
+    width: 23%;
+    height: 100px;
+    top: 540px;
+    position: absolute;
+    right: 10px;
+}
